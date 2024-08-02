@@ -1,6 +1,6 @@
 Counter=5
 while(Counter>=5) do
-  print (Counter)
+  print (Counter
   Counter = Counter + 1
 end-while
 
