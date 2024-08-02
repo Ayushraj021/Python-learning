@@ -1,3 +1,7 @@
-input No_Of_Days # type: ignore
-Seconds = No_Of_Days*24*60*60 # type: ignore
-display "Total number of seconds:" , Seconds # type: ignore
+if (Runway=="free")
+    print ("Land")
+else if (Fuel_Status=="low")
+    print("Emergency landing")
+else
+    print("Circle in the air")
+end-if
