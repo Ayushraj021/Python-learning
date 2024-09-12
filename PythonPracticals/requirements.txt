@@ -1,0 +1,12 @@
+cffi==1.16.0
+cryptography==42.0.7
+distlib==0.3.8
+filelock==3.13.1
+mysql-connector-python==8.4.0
+pillow==10.3.0
+platformdirs==4.2.0
+pycparser==2.22
+PyMySQL==1.1.1
+sockets==1.0.0
+tk==0.1.0
+virtualenv==20.25.0
